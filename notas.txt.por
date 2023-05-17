@@ -13,9 +13,9 @@ programa {
     somar = (nota1+nota2+nota3)
 
      se(somar >= 5)
-      escreva("A mÃ©dia Ã©: " + somar + "\n Aluno Aprovado")
+      escreva("A média é: " + somar + "\n Aluno Aprovado")
      senao
-      escreva("A mÃ©dia Ã©: " + somar + "\n Aluno Reprovado")
+      escreva("A média é: " + somar + "\n Aluno Reprovado")
     }
 
     }
